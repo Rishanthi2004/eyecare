@@ -1,0 +1,6 @@
+{
+  "name": "VisionSphere Eye Hospital",
+  "description": "A new perspective on eye care. World-class ophthalmic surgery, diagnostic science, and restorative vision healthcare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
